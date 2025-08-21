@@ -8,8 +8,7 @@
 ## 🌐 Live Demo
 
 You can check the live project here 
-
-        👉 https://basic-spa.vercel.app/
+👉 https://basic-spa.vercel.app/
 
 ---
 
